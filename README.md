@@ -15,15 +15,15 @@ Dernière étape de la création d'un shell type bash à la norme POSIX from scr
 
 # Features
 
-Lexer, Parser, AST
-Pipes
-redirections des descripteurs de fichiers 
-Variables locales
-Autocompletion
-Globbing
-builtins POSIX 
-builtin Read
-Job Control
+- Lexer, Parser, AST
+- Pipes
+- redirections des descripteurs de fichiers 
+- Variables locales
+- Autocompletion
+- Globbing
+- builtins POSIX 
+- builtin Read
+- Job Control
 
 # Exemples d'utilisations
 
