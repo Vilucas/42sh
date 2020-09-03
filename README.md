@@ -1,7 +1,10 @@
 # 42sh
-Dernière étape de la création d'un shell type bash à la norme POSIX from scratch (6ème projet de mon cursus 42)
+Feature-rich unix shell built in C.
 
-# Objectifs principaux:
+Built in a month in mid 2018
+Lack of comments but very clean code for something done in freshman year
+
+# Principal objectives for the project:
 
 - Autocomplétion
 
@@ -25,13 +28,10 @@ Dernière étape de la création d'un shell type bash à la norme POSIX from scr
 - builtin Read
 - Job Control
 
-# Exemples d'utilisations
-
+# How to launch it
 
 >$> 42sh 
 
-Permet de lancer le shell.
-
 >$> 42sh /path/to/script
+Launch the shell with the given script.
 
-Lance le script avec 42sh.
