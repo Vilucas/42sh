@@ -1,8 +1,9 @@
 # 42sh
 Feature-rich unix shell built in C.
 
-Built in a month in mid 2018
-Lack of comments but very clean code for something done in freshman year
+Built in a month in mid 2018.
+
+Lack of comments but clean code for something done in our first year at 42
 
 # Principal objectives for the project:
 
